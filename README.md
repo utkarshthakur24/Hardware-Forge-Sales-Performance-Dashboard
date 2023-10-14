@@ -3,7 +3,14 @@
 
 [Full Project Article](https://medium.com/@utkarshthakur2404/hardware-forge-sales-performance-dashboard-147821c103bf)
 
-For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the Sales Performance of Hardware Forge Company and offers valuable insights on sales. You can find the article using the link below:
+For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the Sales Performance of Hardware Forge Company and offers valuable insights on sales.
+This Repository also contains 4 other files:
+1. Hardware Forge Sales Insight Power BI Report.pbix
+2. Hardware Forge Sales Insight Power BI Report (IN PDF).pdf
+3. Hardware Forge Sales Insight Power BI Report (IN PNG Format).png
+4. sales_insights_hardware_forge_dataset_inSQL.sql
+
+You can find the article using the link below:
 
 [Medium Article](https://medium.com/@utkarshthakur2404/hardware-forge-sales-performance-dashboard-147821c103bf)
 
