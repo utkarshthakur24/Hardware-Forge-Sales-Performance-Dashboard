@@ -3,10 +3,10 @@
 
 [Full Project Article](https://medium.com/@utkarshthakur2404/hardware-forge-sales-performance-dashboard-147821c103bf)
 
-For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the customer churn patterns and offers valuable recommendations to reduce churn rates. You can find the article using the link below:
+For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the Sales Performance of Hardware Forge Company and offers valuable insights on sales. You can find the article using the link below:
 
 [Medium Article](https://medium.com/@utkarshthakur2404/hardware-forge-sales-performance-dashboard-147821c103bf)
 
-Feel free to reach out to me with any questions or suggestions regarding the project or the analysis.
+Feel free to reach out to me with any questions or suggestions regarding the project or the analysis on utkarshthakur2404@gmail.com.
 
 Happy analyzing!
